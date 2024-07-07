@@ -14,3 +14,10 @@ WHERE (DepartmentId, Salary) IN(SELECT DepartmentId, MAX(Salary) AS Salary
         GROUP BY DepartmentId
        );
 
+-- Query
+
+select Dept_name, ifnull(max(Salary),0) as SL
+from t_184_1 A
+right join t_184_2 B
+on A.DepartmentId = B.Dept_id
+group by Dept_name;
