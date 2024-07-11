@@ -45,6 +45,6 @@ If you have suggestions for improvements, additional case studies, solutions, or
 
 Do ⭐ the repository, if it inspired you, gave you ideas of your own or helped you in any way !!
 
-I hope you find these resources informative and useful for your SQL learning and application. Should you have any questions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/). 🙌
+I hope you find these resources informative and useful for your SQL learning and application. Should you have any questions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/i97/). 🙌
 
 
