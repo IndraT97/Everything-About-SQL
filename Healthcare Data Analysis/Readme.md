@@ -1,6 +1,9 @@
 ## Table Of Contents
+
   - [Introduction](#introduction)
 
+  - [Schema](#Schema)
+  
   - [Datasets](#datasets-used)
 
   - [Recommended Analysis](#recommended-analysis)
@@ -19,6 +22,14 @@ In the scope of this project, our focus lies in delving into `Hospital Patients 
 Employing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. The outcomes of this analysis will be instrumental in comprehending the factors that `impact` a restaurant's rating, paving the way for strategic `recommendations` to enhance performance. Our examination will encompass scrutinizing the interplay between various variables, including `location, cuisine, and price range`, and their corresponding influence on restaurant ratings. 
 
 Furthermore, we will conduct `sentiment analysis` to identify and analyze the most favorably reviewed restaurants, providing a comprehensive understanding of customer preferences.
+
+
+## Schema
+
+- A SQL database with the following tables: Patients, Doctors, Hospitals, Insurance, Medications, 
+PatientAdmission 
+
+![Logo](https://github.com/IndraT97/Everything-About-SQL/blob/main/Healthcare%20Data%20Analysis/Data%20Set/Schema.png)
 
 
 ## Dataset
@@ -68,7 +79,13 @@ This dataset contains 5 tables, in CSV format:
 
 ## Relevant Insights
 
+-
 
+-
+
+-
+
+-
 
 ## Contributing
 `Contributions` are always welcome !!
