@@ -190,27 +190,6 @@ The EDA process is undertaken to address the specified questions and achieve the
 4. Which customer type pays the most in VAT?
 
 
-
-## Relevant Insights
-
-please refer  [insights.md](https://github.com/faizanxmulla/sql-portfolio/blob/main/projects/walmart-sales-analysis/insights.md) !!
-
-
-
-## Relevant Links
-
-- `Challenge Link` : [Walmart Recruitment - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview)
-
-- `Dataset Link` : [Walmart Sales Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
-
-
-
-## Contributing
-`Contributions` are always welcome !!
-
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
-
-
 ## Support
 
 If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/).
