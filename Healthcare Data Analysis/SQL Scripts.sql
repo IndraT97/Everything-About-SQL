@@ -1,29 +1,29 @@
--- a.	Number of distinct patients
+-- Number of distinct patients
 
 SELECT COUNT(DISTINCT PatientID) AS NumberOfDistinctPatients 
 FROM Patients;
 
--- b.	Group patients by gender
+-- Group patients by gender
 
 SELECT Gender, COUNT(*) AS NumberOfPatients 
 FROM Patients 
 GROUP BY Gender;
 
--- c.	Group patients by BloodType 
+-- Group patients by BloodType 
 
 SELECT BloodType, COUNT(*) AS NumberOfPatients 
 FROM Patients 
 GROUP BY BloodType
 ORDER BY NumberOfPatients DESC;
 
--- d.	Group patients by Medical Condition
+-- Group patients by Medical Condition
 
 SELECT MedicalCondition, COUNT(*) AS NumberOfPatients 
 FROM PatientAdmission 
 GROUP BY MedicalCondition
 ORDER BY 2 DESC;
 
--- e.	Group patients by Insurance Provider 
+-- Group patients by Insurance Provider 
 
 SELECT InsuranceProvider, COUNT(*) AS NumberOfPatients 
 FROM Insurances i
@@ -31,7 +31,7 @@ JOIN PatientAdmission pa ON i.InsuranceID = pa.InsuranceID
 GROUP BY InsuranceProvider
 ORDER BY 2 DESC;
 
--- f.	Group patients by Medication
+-- Group patients by Medication
 
 SELECT MedicationName, COUNT(*) AS NumberOfPatients FROM Medications m
 JOIN PatientAdmission pa ON m.MedicationID = pa.MedicationID
