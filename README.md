@@ -4,6 +4,10 @@ Welcome to my SQL Portfolio repository!! 🚀
 
 This repository is a comprehensive collection of SQL case studies, solutions to problems from various platforms, and advanced projects, all designed to demonstrate my proficiency in SQL 📊
 
+## 📊 Overview
+
+This repository serves as a valuable resource for SQL practitioners, offering a variety of case studies, platform solutions, projects, and takehome challenges. Whether you're a beginner or an advanced user, these resources are designed to enhance your SQL skills through practical applications and complex problem-solving scenarios 🎯
+
 ## 📚 Projects
 
 This section highlights a series of SQL projects showcasing various data analysis techniques and insights. Each project demonstrates proficiency in SQL query writing, data extraction, transformation, and analysis across different domains💡
@@ -18,10 +22,6 @@ Below is a summary of the projects included in this repository:
 |  [🍽️ Restaurant Ratings Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/restaurant-ratings-analysis) | Restaurant performance, customer preferences, sentiment analysis | Analyze restaurant ratings data to understand factors influencing ratings, with insights for performance enhancement 🍽️| 
 |  [🏥 Healthcare Data Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Healthcare%20Data%20Analysis) | Medical Demographics, Patient Condition, Hospital occupancy trend. | Analyzing patient admission data to identify trends and insights that can enhance the hospital's overall performance 🚦|
 |  [🏥 Employee Data Management Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Employee%20Data%20Management%20Analysis) | Employee Data Management |  |
-
-## 📊 Overview
-
-This repository serves as a valuable resource for SQL practitioners, offering a variety of case studies, platform solutions, projects, and takehome challenges. Whether you're a beginner or an advanced user, these resources are designed to enhance your SQL skills through practical applications and complex problem-solving scenarios 🎯
 
 ## 👩🏻‍💻 Usage Instructions
 
