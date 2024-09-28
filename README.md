@@ -14,9 +14,10 @@ Below is a summary of the projects included in this repository:
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-|  [🏪 Walmart Sales Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Walmart%20Data%20Analysis) | Sales trends, customer behavior, product performance | Investigate Walmart sales data, analyze key branches, products, and customer behavior for sales strategy enhancement. 🛒|  
-|  [🍽️ Restaurant Ratings Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/restaurant-ratings-analysis) | Restaurant performance, customer preferences, sentiment analysis | Analyze restaurant ratings data to understand factors influencing ratings, with insights for performance enhancement. 🍽️| 
-|  [🏥 Healthcare Data Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Healthcare%20Data%20Analysis) | Traffic safety, accident trends, spatial analysis | Analyze vehicle accident data to identify trends, high-risk areas, and factors contributing to accidents. 🚦 | 
+|  [🏪 Walmart Sales Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Walmart%20Data%20Analysis) | Sales trends, customer behavior, product performance | Investigate Walmart sales data, analyze key branches, products, and customer behavior for sales strategy enhancement 🛒|  
+|  [🍽️ Restaurant Ratings Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/restaurant-ratings-analysis) | Restaurant performance, customer preferences, sentiment analysis | Analyze restaurant ratings data to understand factors influencing ratings, with insights for performance enhancement 🍽️| 
+|  [🏥 Healthcare Data Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Healthcare%20Data%20Analysis) | Medical Demographics, Patient Condition, Hospital occupancy trend. | Analyzing patient admission data to identify trends and insights that can enhance the hospital's overall performance |
+|  [🏥 Employee Data Management Analysis](https://github.com/IndraT97/Everything-About-SQL/tree/main/Employee%20Data%20Management%20Analysis) | Traffic safety, accident trends, spatial analysis | Analyze vehicle accident data to identify trends, high-risk areas, and factors contributing to accidents🚦 |
 
 ## 📊 Overview
 
