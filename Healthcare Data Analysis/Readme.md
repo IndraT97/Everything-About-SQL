@@ -19,7 +19,7 @@
 
 In the scope of this project, our focus lies in delving into `Hospital Patients data` to extract `valuable insights` regarding the performance of diverse dining establishments. 
 
-Employing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. The outcomes of this analysis will be instrumental in comprehending the factors that `impact` a restaurant's rating, paving the way for strategic `recommendations` to enhance performance. Our examination will encompass scrutinizing the interplay between various variables, including `location, cuisine, and price range`, and their corresponding influence on restaurant ratings. 
+Employing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. The outcomes of this analysis will be instrumental in comprehending the factors that `impact` a hospital performance, paving the way for strategic `recommendations` to enhance performance. 
 
 Furthermore, we will conduct `sentiment analysis` to identify and analyze the most favorably reviewed restaurants, providing a comprehensive understanding of customer preferences.
 
