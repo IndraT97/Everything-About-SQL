@@ -6,7 +6,7 @@ This repository is a comprehensive collection of SQL case studies, solutions to 
 
 ## 📚 Projects
 
-This section highlights a series of SQL projects showcasing various data analysis techniques and insights. Each project demonstrates proficiency in SQL query writing, data extraction, transformation, and analysis across different domains. 💡
+This section highlights a series of SQL projects showcasing various data analysis techniques and insights. Each project demonstrates proficiency in SQL query writing, data extraction, transformation, and analysis across different domains.💡
 
 These projects present unique challenges and opportunities for exploration, aiming to uncover actionable insights and provide data-driven recommendations. 📊
 
