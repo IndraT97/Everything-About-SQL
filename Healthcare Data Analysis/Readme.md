@@ -14,27 +14,28 @@
 
 ## Introduction
 
-In the scope of this project, our focus lies in delving into `restaurant ratings data` to extract `valuable insights` regarding the performance of diverse dining establishments. 
+In the scope of this project, our focus lies in delving into `Hospital Patients data` to extract `valuable insights` regarding the performance of diverse dining establishments. 
 
 Employing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. The outcomes of this analysis will be instrumental in comprehending the factors that `impact` a restaurant's rating, paving the way for strategic `recommendations` to enhance performance. Our examination will encompass scrutinizing the interplay between various variables, including `location, cuisine, and price range`, and their corresponding influence on restaurant ratings. 
 
 Furthermore, we will conduct `sentiment analysis` to identify and analyze the most favorably reviewed restaurants, providing a comprehensive understanding of customer preferences.
 
 
-
 ## Dataset
 
 This dataset contains 5 tables, in CSV format:
 
-- The `Consumers` table contains information for 138 consumers (each record represents one consumer), with fields containing details about their location, age, method of transportation, employment status, budget, and more.
+- The `Doctor` table contains information Doctor Id and Full_Name of the Doctor (All records are unique)
 
-- The `Consumer Preferences` table contains the types of cuisine that each user prefers.
+- The `Hospitals` table contains Hospital ID and Name of Hospital (All records are unique)
 
-- The `Restaurants` table contains information for 130 restaurants (each record represents one restaurant), with fields containing details about its location, price, types of service, and more.
+- The `Insurances` table contains 5 different type of insurances
 
-- The `Restaurant Cuisines` table contains the types of cuisine that each restaurant serves.
+- The `Medications` table contains 5 types of medication
 
-- The `Ratings` table contains overall, food, and service ratings by consumers for the restaurants.
+- The `PatientAdmission` table contains information of every PatientAdmission records
+
+- The `Patiens` table contains Patient Demographics
 
 
 ## Recommended Analysis 
@@ -66,19 +67,6 @@ This dataset contains 5 tables, in CSV format:
 
 
 ## Relevant Insights
-
-
-
-
-
-
-## Relevant Links
-
-- `Challenge Link` : [Maven Restaurant Challenge](https://mavenanalytics.io/blog/maven-restaurant-challenge)
-
-- `Dataset Link` : [Restaurant Ratings Dataset](https://www.mavenanalytics.io/data-playground?search=restaurant%20ratings%20)
-
-- `Thumbnail Credits` : [Vinit Sangoi](https://github.com/vinitsangoi)
 
 
 
